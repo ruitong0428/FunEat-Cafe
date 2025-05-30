@@ -1,0 +1,22 @@
+.qrcode{
+    display:block;
+    width:80%;
+    max-width:200px;
+    height:auto;
+    margin: 20px auto;
+    border-radius:8px;
+}
+
+h1{
+    font-size:2rem;
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+p{
+    font-size: 1.1rem;
+    margin-bottom:20px;
+    line-height: 1.5;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
